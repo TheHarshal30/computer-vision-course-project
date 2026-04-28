@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# large local assets and generated outputs
+*.zip
+*.part-*
+*.pt
+CV_Course_Project_Traffic_Violation.pdf
+data/tmp/
+data/merged_dataset/
+data/yolo_dataset/
+datasets/
+models/
+runs/
+tmp_inspect/
+training_bundle/
