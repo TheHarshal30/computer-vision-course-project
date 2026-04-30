@@ -6,6 +6,8 @@ This workspace now has a minimal end-to-end pipeline for the course project:
 - `data/merged_dataset`: existing YOLO detection dataset for `helmet`, `no-helmet`, `motorcycle`, `license_plate`
 - `solution.py`: required `TrafficViolationDetector` class
 
+For a fuller write-up of the current pipeline, model choices, and training results, see [CURRENT_SYSTEM.md](/home/harshal/CV%20project%20/CURRENT_SYSTEM.md:1).
+
 ## Dataset Preparation
 
 Run this after downloading or replacing the raw archives:
